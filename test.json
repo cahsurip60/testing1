@@ -1,0 +1,89 @@
+{
+  "Ads": [
+    {
+      "status": "0"
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "judul": "[empty]",
+      "image": "https://empty.com/null.png",
+      "link": "https://empty.com"
+    },
+    {
+      "id":1,
+      "judul":"Mods free Fire For MCPE",
+      "image":"https://play-lh.googleusercontent.com/-_K9UpxdI5hRr_3qmS4VIrvXZnY6KzXF2s2wBTmBDGk48uA63omSeRJS5E_n0i1kyd9R=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.arbanatappz.modMCPE"
+    },
+    {
+      "id":2,
+      "judul":"Mastercraft - Multicraft World craft buliding 2020",
+      "image":"https://play-lh.googleusercontent.com/Wsq-onw2No_hJqWWZXDgTKerBIlf7VkS2eEcV-fQ4C61gBptn4Cd2ZVjeaD7lGLOVJSR=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.towncraft.microlite.buildingword"
+    },
+    {
+      "id":3,
+      "judul":"Crowd Run City live 2020",
+      "image":"https://play-lh.googleusercontent.com/NCX-TZhVe98gTNxtyys-qTvWqwWuRdh4FjccA9o5aW0AVj4qJTgKlvoyQdiRWgSCCw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.slentex.runtolive"
+    },
+    {
+      "id":4,
+      "judul":"Mods Mermaid For Minecraft - Master mods addon",
+      "image":"https://play-lh.googleusercontent.com/s59eVWK32W8XQjclZbNCjpt7sRtuXzp6cKo2xNz9Oxwav2n1zQ-dAPUssgXf_hlbwtDZ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.dunti.mermaidmod"
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "nama_skin": "1xxxxxxxx",
+      "skin_url": "xxxxxxxx",
+      "view_skin": "xxxxxxxxxx"
+    },
+    {
+      "id": 2,
+      "nama_skin": "2xxxxxxxx",
+      "skin_url": "xxxxxxxx",
+      "view_skin": "xxxxxxxxxx"
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "nama_add": "1xxxxxx",
+      "add_url": "xxxxxxxx",
+      "addB_url": "xxxxxxxx",
+      "addR_url": "xxxxxxxx",
+      "view_add": "xxxxxxxx",
+      "des_add": "xxxxxxxx"
+    },
+    {
+      "id": 2,
+      "nama_add": "Coming Soon",
+      "add_url": "xxxxxxxx",
+      "addB_url": "xxxxxxxx",
+      "addR_url": "xxxxxxxx",
+      "view_add": "xxxxxxxx",
+      "des_add": "xxxxxxxx"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "nama_map": "1xxxxxxxxxx",
+      "map_url": "xxxxxxxxxx",
+      "view_map": "xxxxxxxxxx",
+      "des_map": "xxxxxxxxxx"
+    },
+    {
+      "id": 15,
+      "nama_map": "Coming Soon",
+      "map_url": "xxxxxxxxxx",
+      "view_map": "xxxxxxxxxx",
+      "des_map": "xxxxxxxxxx"
+    }
+  ]
+}
